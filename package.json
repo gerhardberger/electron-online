@@ -1,0 +1,30 @@
+{
+  "name": "electron-online",
+  "version": "1.0.0",
+  "description": "detect that your electron app is online or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerhardberger/electron-online.git"
+  },
+  "keywords": [
+    "electron",
+    "online",
+    "offline"
+  ],
+  "author": "@gellerthegyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerhardberger/electron-online/issues"
+  },
+  "homepage": "https://github.com/gerhardberger/electron-online#readme",
+  "devDependencies": {
+    "debug": "^2.2.0",
+    "eslint": "^3.7.0",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
